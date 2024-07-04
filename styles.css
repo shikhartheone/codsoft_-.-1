@@ -209,7 +209,7 @@ footer {
     left: 10px;
     width: 100px;
     height: 100px;
-    background: url('OIP.jpg') no-repeat center center;
+    background: url('Images\OIP.jpg') no-repeat center center;
     background-size: contain;
     opacity: 0.1;
 }
@@ -221,7 +221,7 @@ footer {
     right: 10px;
     width: 150px;
     height: 150px;
-    background: url('pencil-icon-transparent-free-png.webp') no-repeat center center;
+    background: url('Images\pencil-icon-transparent-free-png.webp') no-repeat center center;
     background-size: contain;
     opacity: 0.1;
 }
